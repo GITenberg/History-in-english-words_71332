@@ -1,11 +1,16 @@
 _repo: History-in-english-words_71332
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71332-h/images/cover.jpg
 creator:
   author:
     agent_name: Barfield, Owen
     gutenberg_agent_id: '56175'
     url: http://www.gutenberg.org/2009/agents/56175
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71332#History-in-english-words
 gutenberg_issued: '2023-08-03'
 identifiers:
   gutenberg: '71332'
